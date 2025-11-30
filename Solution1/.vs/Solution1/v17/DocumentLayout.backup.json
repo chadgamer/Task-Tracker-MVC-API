@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC892C0-2C52-42EE-89F9-0926CD038A4C}|SimpleTaskTrackerAppAPI\\SimpleTaskTrackerAppAPI.csproj|c:\\users\\mcles\\onedrive\\documents\\asp dotnet projects\\simple task tracker\\task-tracker-mvc-api\\solution1\\simpletasktrackerappapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC892C0-2C52-42EE-89F9-0926CD038A4C}|SimpleTaskTrackerAppAPI\\SimpleTaskTrackerAppAPI.csproj|solutionrelative:simpletasktrackerappapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "SimpleTaskTrackerAppAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "SimpleTaskTrackerAppAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:38:40.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

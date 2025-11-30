@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC892C0-2C52-42EE-89F9-0926CD038A4C}|SimpleTaskTrackerAppAPI\\SimpleTaskTrackerAppAPI.csproj|c:\\users\\mcles\\onedrive\\documents\\asp dotnet projects\\simple task tracker\\task-tracker-mvc-api\\solution1\\simpletasktrackerappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEC892C0-2C52-42EE-89F9-0926CD038A4C}|SimpleTaskTrackerAppAPI\\SimpleTaskTrackerAppAPI.csproj|solutionrelative:simpletasktrackerappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\Models\\TaskDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimpleTaskTrackerAppAPI\\Models\\TaskDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC892C0-2C52-42EE-89F9-0926CD038A4C}|SimpleTaskTrackerAppAPI\\SimpleTaskTrackerAppAPI.csproj|c:\\users\\mcles\\onedrive\\documents\\asp dotnet projects\\simple task tracker\\task-tracker-mvc-api\\solution1\\simpletasktrackerappapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC892C0-2C52-42EE-89F9-0926CD038A4C}|SimpleTaskTrackerAppAPI\\SimpleTaskTrackerAppAPI.csproj|solutionrelative:simpletasktrackerappapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleTaskTrackerAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\appsettings.json",
+              "RelativeToolTip": "SimpleTaskTrackerAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T05:41:26.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\Models\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleTaskTrackerAppAPI\\Models\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\Models\\TaskDbContext.cs",
+              "RelativeToolTip": "SimpleTaskTrackerAppAPI\\Models\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:40:23.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "SimpleTaskTrackerAppAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\mcles\\OneDrive\\Documents\\ASP DOTNET PROJECTS\\Simple Task Tracker\\Task-Tracker-MVC-API\\Solution1\\SimpleTaskTrackerAppAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "SimpleTaskTrackerAppAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:38:40.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
